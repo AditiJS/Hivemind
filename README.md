@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Hivemind
 
 This is decentralized chat application with web interface.
 The project uses ethereum blockchain for transaction.
