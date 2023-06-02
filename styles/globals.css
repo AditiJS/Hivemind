@@ -1,0 +1,33 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap');
+
+
+  html,
+ body {
+   padding:0;
+   margin: 0;
+   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+     font-family: 'Chakra Petch', sans-serif;
+     background-color: #292F3F;
+     color: white
+ }
+
+ .app_main_div{
+     background-color: #292F3F;
+ }
+
+ ::-webkit-scrollbar{
+    display: none;
+ }
+
+ a {
+   color: inherit;
+  text-decoration: none;
+   }
+
+*{
+    box-sizing: border-box;
+}
+

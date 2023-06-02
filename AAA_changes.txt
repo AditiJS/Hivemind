@@ -1,0 +1,14 @@
+commented fetch function lines in chatAppContext file in context folder
+
+
+
+            // changes
+            const username = await contract.getUsername(accountAddress);
+            setCurrentUserName(username);
+
+
+
+            filter.jsx me line no 22 se 31 tak gadbad lagri hai
+
+
+            npx hardhat run --network localhost scripts/deploy.js
